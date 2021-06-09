@@ -13,7 +13,7 @@ Esse projeto é uma atividade de lógica de programação solicitado pela faculd
 
 ### Observações
 - O projeto foi desenvolvido em plataforma **Windows**, porém foi testado em **Linux-Mint cinnamon**.
-- Se caso estiver utilizando Linux, a **função system("clear")** deve ser alterada para **system("cls")**.
+- Se caso estiver utilizando Linux, a **função system("cls")** deve ser alterada para **system("clear")**.
 - Foi utilizado a função **setlocale**, para utilização de acentos do portugues no código.
 - Se caso estiver utilizando Linux, verifique se a função **setlocate** irá ter as funções ativadas.
 - O mesmo pode ser compilado diretamente pelo **terminal linux**, sem a necessidade de utilização de uma IDE.
